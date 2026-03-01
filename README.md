@@ -13,10 +13,6 @@ Rather than treating governance as external regulation, I focus on integrating a
 
 ## Research & Projects
 
-### Sentencing Audit Pipeline (RAG + Public Policy)
-
-Designed a retrieval-augmented pipeline to analyze federal sentencing data at scale.
-
 - Building an object recongizer for specific medical tools
 - Structured hundreds variables across 60k+ cases, expanding slowly  
 - Built document parsing and OCR ingestion workflows
